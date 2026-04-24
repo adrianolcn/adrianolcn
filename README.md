@@ -10,9 +10,11 @@
 
 ---
 
-<table>
+<div align="center">
+
+<table align="center">
   <tr>
-    <td>
+    <td align="left">
 
 ```text
 > ID: adrianolcn
@@ -25,6 +27,8 @@
 </td>
   </tr>
 </table>
+
+</div>
 
 ## Sobre mim
 
@@ -66,9 +70,11 @@ Minha vivência com sistemas reais me ajuda a enxergar além do código: entende
 
 ## Áreas em evolução
 
-<table>
+<div align="center">
+
+<table align="center">
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" align="left">
 
 ### Backend
 
@@ -78,7 +84,7 @@ Minha vivência com sistemas reais me ajuda a enxergar além do código: entende
 - Testes e qualidade de software
 
 </td>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" align="left">
 
 ### Frontend
 
@@ -90,7 +96,7 @@ Minha vivência com sistemas reais me ajuda a enxergar além do código: entende
 </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" align="left">
 
 ### Arquitetura
 
@@ -100,7 +106,7 @@ Minha vivência com sistemas reais me ajuda a enxergar além do código: entende
 - Evolução incremental de projetos
 
 </td>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" align="left">
 
 ### Fundamentos
 
@@ -112,6 +118,8 @@ Minha vivência com sistemas reais me ajuda a enxergar além do código: entende
 </td>
   </tr>
 </table>
+
+</div>
 
 ---
 
