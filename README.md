@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="./assets/profile-terminal-header.png" alt="Adriano Nunes — Engenheiro de Software em formação" width="100%" />
+<h2>🕵️‍♂️ ENGENHEIRO DE SOFTWARE EM FORMAÇÃO</h2>
+
+<img src="./assets/profile-terminal-panel.png" alt="Terminal de perfil: Adriano Nunes, fullstack em evolução" width="100%" />
 
 <br />
 
