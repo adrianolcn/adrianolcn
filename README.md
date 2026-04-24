@@ -1,7 +1,5 @@
 <div align="center">
 
-## 🕵️‍♂️ ENGENHEIRO DE SOFTWARE EM FORMAÇÃO
-
 <img src="./assets/profile-terminal-header.png" alt="Adriano Nunes — Engenheiro de Software em formação" width="100%" />
 
 <br />
@@ -65,13 +63,14 @@ FOCUS : [ FULLSTACK · BACKEND · FRONTEND · ARCHITECTURE · DATABASES · QUALI
 
 ---
 
-## GitHub telemetry
+## GitHub Stats
 
 <div align="center">
-  <img src="./assets/retro-dev-console.png" alt="Adriano's Dev Console — retro GitHub telemetry" width="100%" />
-</div>
 
-> Painel visual retrô com a sua telemetria principal, sem depender de blocos externos que costumam quebrar o layout no GitHub.
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=adrianolcn&show_icons=true&hide_border=true&theme=transparent&bg_color=00000000&title_color=22D3EE&text_color=E6EDF3&icon_color=22D3EE" alt="GitHub stats de Adriano" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianolcn&layout=compact&hide_border=true&theme=transparent&bg_color=00000000&title_color=22D3EE&text_color=E6EDF3" alt="Linguagens mais usadas" />
+
+</div>
 
 ---
 
