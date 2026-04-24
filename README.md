@@ -16,13 +16,6 @@ Sou graduando em **Engenharia de Software** pela **Universidade Católica do Sal
 
 Minha vivência com sistemas reais me ajuda a enxergar além do código: entender regra de negócio, investigar causa raiz, pensar em experiência do usuário e transformar problemas concretos em soluções mais simples, funcionais e bem estruturadas.
 
-```text
-ID: adrianolcn  |  OS: Linux/Windows  |  LOCATION: Salvador/BA
-----------------------------------------------------------------
-STATUS: [ SEARCHING FOR CAUSE_ROOT... ]
-FOCUS : [ FULLSTACK · BACKEND · FRONTEND · ARCHITECTURE · DATABASES · QUALITY ]
-```
-
 - Explorando novas tecnologias e desenvolvendo soluções de software.
 - Estudando fundamentos sólidos de Ciência da Computação e Engenharia de Software.
 - Evoluindo em backend, frontend, arquitetura de software, testes, banco de dados e qualidade.
@@ -68,7 +61,16 @@ FOCUS : [ FULLSTACK · BACKEND · FRONTEND · ARCHITECTURE · DATABASES · QUALI
 <div align="center">
 
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=adrianolcn&show_icons=true&hide_border=true&theme=transparent&bg_color=00000000&title_color=22D3EE&text_color=E6EDF3&icon_color=22D3EE" alt="GitHub stats de Adriano" />
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianolcn&layout=compact&hide_border=true&theme=transparent&bg_color=00000000&title_color=22D3EE&text_color=E6EDF3" alt="Linguagens mais usadas" />
+
+</div>
+
+---
+
+## Linguagens mais usadas
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianolcn&layout=compact&hide_border=true&theme=transparent&bg_color=00000000&title_color=22D3EE&text_color=E6EDF3&langs_count=8&card_width=440" alt="Linguagens mais usadas por Adriano" />
 
 </div>
 
