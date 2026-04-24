@@ -1,10 +1,12 @@
 <div align="center">
 
+## 🕵️‍♂️ ENGENHEIRO DE SOFTWARE EM FORMAÇÃO
+
 <img src="./assets/profile-terminal-header.png" alt="Adriano Nunes — Engenheiro de Software em formação" width="100%" />
 
 <br />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=700&color=22D3EE&center=true&vCenter=true&width=900&lines=Java+%7C+PHP+%7C+TypeScript+%7C+JavaScript+%7C+Flutter;Suporte+t%C3%A9cnico+%2B+automa%C3%A7%C3%A3o+comercial+%2B+software;Construindo+solu%C3%A7%C3%B5es+com+clareza%2C+base+e+prop%C3%B3sito)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=700&color=22D3EE&center=true&vCenter=true&width=900&lines=Java+%7C+PHP+%7C+TypeScript+%7C+JavaScript+%7C+Flutter;Backend+%2B+Frontend+%2B+Arquitetura+de+Software;Evoluindo+em+toda+a+stack+com+base+e+prop%C3%B3sito)](https://git.io/typing-svg)
 
 </div>
 
@@ -12,21 +14,21 @@
 
 ## Sobre mim
 
-Sou graduando em **Engenharia de Software** pela **Universidade Católica do Salvador (UCSal)** e trabalho como **Técnico de Suporte na POS CONTROLE**, atuando no contato direto com sistemas, regras de negócio, troubleshooting e automação comercial.
+Sou graduando em **Engenharia de Software** pela **Universidade Católica do Salvador (UCSal)** e estou construindo minha trajetória como **desenvolvedor fullstack**, evoluindo de forma contínua em **backend, frontend, arquitetura de software, banco de dados, testes e qualidade**.
 
-Minha transição para desenvolvimento nasce dessa prática: entender problemas reais, investigar causa raiz, organizar soluções e transformar operação em software mais claro, confiável e útil.
+Minha vivência com sistemas reais me ajuda a enxergar além do código: entender regra de negócio, investigar causa raiz, pensar em experiência do usuário e transformar problemas concretos em soluções mais simples, funcionais e bem estruturadas.
 
 ```text
 ID: adrianolcn  |  OS: Linux/Windows  |  LOCATION: Salvador/BA
 ----------------------------------------------------------------
 STATUS: [ SEARCHING FOR CAUSE_ROOT... ]
-FOCUS : [ BACKEND · DATA STRUCTURES · REQUIREMENTS · QUALITY ]
+FOCUS : [ FULLSTACK · BACKEND · FRONTEND · ARCHITECTURE · DATABASES · QUALITY ]
 ```
 
 - Explorando novas tecnologias e desenvolvendo soluções de software.
 - Estudando fundamentos sólidos de Ciência da Computação e Engenharia de Software.
-- Aplicando visão de suporte técnico, automação comercial e experiência do usuário em projetos reais.
-- Evoluindo em backend, arquitetura, testes, banco de dados e qualidade de software.
+- Evoluindo em backend, frontend, arquitetura de software, testes, banco de dados e qualidade.
+- Transformando problemas reais em soluções mais claras, confiáveis e úteis.
 
 ---
 
@@ -59,20 +61,17 @@ FOCUS : [ BACKEND · DATA STRUCTURES · REQUIREMENTS · QUALITY ]
 |---|---|---|
 | [**AED·Studio**](https://github.com/adrianolcn/aed-studio) | Plataforma educacional full-stack para Algoritmos e Estruturas de Dados | Java 17, Spring Boot, JWT, PostgreSQL/Flyway, Playwright |
 | [**SORT//VIS**](https://github.com/adrianolcn/sortvis) | Laboratório visual retrô para algoritmos de ordenação | HTML, CSS, JavaScript, Canvas, i18n EN/PT-BR, Playwright |
-| [**AURA**](https://github.com/adrianolcn/aura) | Plataforma de gestão para profissionais de beleza | TypeScript, Next.js, React, Expo, Supabase, automações |
+| [**AURA**](https://github.com/adrianolcn/aura) | Plataforma de gestão com abordagem fullstack | TypeScript, Next.js, React, Expo, Supabase, automações |
 
 ---
 
 ## GitHub telemetry
 
-<img src="./assets/retro-dev-console.png" alt="Adriano's Dev Console — retro GitHub telemetry" width="100%" />
-
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=adrianolcn&show_icons=true&hide_border=true&theme=transparent&bg_color=0D1117&title_color=22D3EE&text_color=E6EDF3&icon_color=F472B6&ring_color=22D3EE" alt="GitHub stats de Adriano" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianolcn&layout=compact&hide_border=true&theme=transparent&bg_color=0D1117&title_color=22D3EE&text_color=E6EDF3" alt="Linguagens mais usadas" />
-
+  <img src="./assets/retro-dev-console.png" alt="Adriano's Dev Console — retro GitHub telemetry" width="100%" />
 </div>
+
+> Painel visual retrô com a sua telemetria principal, sem depender de blocos externos que costumam quebrar o layout no GitHub.
 
 ---
 
